@@ -14,6 +14,18 @@
 
 The company wants to build Continuous Random Field (CRF) model to After that, you need to create a dictionary in which diseases are keys and treatments are values.
 
+There are eight major tasks that you need to perform to complete the assignment. They are as follows:
+
+Data preprocessing
+Concept identification
+Defining the features for CRF
+Getting the features words and sentences
+Defining input and target variables
+Building the model
+Evaluating the model
+Identifying the diseases and predicted treatment using a custom NER.
+
+
 - What is the dataset that is being used?
 
 There are four datasets provided to you to process, which are as follows:
